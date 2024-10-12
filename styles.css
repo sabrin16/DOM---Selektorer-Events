@@ -1,0 +1,18 @@
+.square {
+  margin-top: 3rem;
+
+  width: 300px;
+  height: 300px;
+
+  background-color: blueviolet;
+}
+
+.ball {
+  width: 100px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: aqua;
+}
+.bg-red {
+  background-color: red;
+}
